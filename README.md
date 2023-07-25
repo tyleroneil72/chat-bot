@@ -13,6 +13,10 @@ This is a chat bot built with Node.js and Express, integrated with OpenAI's API 
 - Ability to answer questions and provide context-aware responses.
 - Fully customizable/tweakable
 
+## Example
+![image](https://github.com/tyleroneil72/chat-bot/assets/43754564/9f63c52f-9229-49ef-8987-4e5d080f8672)
+
+
 ## Installation
 
 1. Clone the repository:
