@@ -1,6 +1,3 @@
-# chat-bot
-Customizable Chat bot created with OpenAI's GPT API
-
 # Chat Bot using Node.js, Express, and OpenAI API
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
