@@ -23,7 +23,6 @@ This is a chat bot built with Node.js and Express, integrated with OpenAI's API 
 
 ```bash
 git clone https://github.com/tyleroneil72/chat-bot.git
-cd chat-bot
 ```
 
 2. Install dependencies:
