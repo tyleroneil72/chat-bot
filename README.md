@@ -46,6 +46,7 @@ API_KEY="YOUR KEY HERE"
 ## Usage
 Run the following command to start the chat bot server from the backend:
 ```bash
+cd backend
 npm start
 ```
 And open the index.html file
