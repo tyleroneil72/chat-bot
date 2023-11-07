@@ -34,12 +34,17 @@ git clone https://github.com/tyleroneil72/chat-bot.git
 2. Install dependencies:
 
 ```bash
+npm install
+```
+or
+```bash
 npm install openai
 npm install express
 npm install cors
 npm install body-parser
 npm install dotenv
 ```
+
 3. Obtain OpenAI API Key:
 
 Sign up for an account at OpenAI.
