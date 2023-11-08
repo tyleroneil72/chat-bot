@@ -7,7 +7,7 @@
     "openai": "^3.3.0"
   },
   "scripts": {
-    "start": "node server.js && open ../frontend/index.html"
+    "start": "node server.js"
   },
   "name": "chat_bot",
   "version": "1.0.0",
