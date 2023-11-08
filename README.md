@@ -56,6 +56,16 @@ Create a .env file in the root directory and add your API key:
 ```dotenv
 API_KEY="YOUR KEY HERE"
 ```
+You may need to change the model in the server.js file depending on availability
+```javascript
+const response = await openai.createChatCompletion({
+      // Switch to different models if necessary
+      // model: "gpt-3.5-turbo",
+      model: "gpt-4",
+      messages: messages,
+    });
+```
+
 
 ## Usage
 Run the following command to start the chat bot server from the backend:
