@@ -63,7 +63,7 @@ Run the following command to start the chat bot server from the backend:
 cd backend
 npm start
 ```
-And open the index.html file
+And the index.html file should open in your browser
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
