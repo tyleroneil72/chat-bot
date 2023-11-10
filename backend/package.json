@@ -7,12 +7,13 @@
     "openai": "^3.3.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "name": "chat_bot",
   "version": "1.0.0",
   "description": "Chat Bot Using OpenAI's API backend express server",
-  "main": "server.js",
+  "main": "app.js",
   "author": "Tyler O'Neil",
   "license": "MIT"
 }
