@@ -38,15 +38,6 @@ cd chat-bot
 cd backend
 npm install
 ```
-or
-```bash
-cd backend
-npm install openai
-npm install express
-npm install cors
-npm install body-parser
-npm install dotenv
-```
 
 3. Obtain OpenAI API Key:
 
