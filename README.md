@@ -47,7 +47,7 @@ Create a .env file in the root directory and add your API key:
 ```dotenv
 API_KEY="YOUR KEY HERE"
 ```
-You may need to change the model in the server.js file depending on availability
+You may need to change the model in the backend/services/openaiService.js file depending on availability
 ```javascript
 const response = await openai.createChatCompletion({
       // Switch to different models if necessary
